@@ -1,0 +1,48 @@
+JP02_12L7E13.css                                                                                                                                                                   body{
+    
+    background-image:linear-gradient(rgba(120,255,255,0.9),rgba(255,180,255,0.9)),url('images/24.jpeg') ;
+    background-size: auto;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    font-weight:700px;
+    color: #000080;
+}
+h2{
+    font-size:30px;
+    font-weight:700px;
+    color: #400000;
+}
+p{
+    font-size:15px;
+    color: #003000;
+    line-height: 30px;
+    font-weight: 600px;
+
+
+}
+span{
+    background-color: #ff7f50;
+}                                                                                                                                                                                          <!DOCTYPE html>
+<html>
+	<head>
+		<title>Internet</title>
+		<link href="JP02_12L7E13.css" rel="stylesheet" content="text/css">
+	</head>
+	<body>
+	
+		<u><h1>INTERNET</h1></u>
+		<hr color="PaleVioletRed" size=4>
+	<!--<font face="Elephant" color="navy" size=4>-->
+		<h2>Introduction to Internet</h2>
+		<p> Internet is the <span>global network of
+			 interconnected computers.</span><br> It is based on internetworking</p>
+	
+		<p>It works on <span>physical cables</span> such as optical fibres.
+<br>Internet has a lot of 
+applications such as education, entertainment etc.
+		</p>
+	
+	</body> 
+</html>
